@@ -4,7 +4,7 @@ A simple interactive map of St Peters with points of interest.
 
 ## How does it work?
 
-The site uses LeafletJS library to display an intercactive map, with markers added to display points of interest using Javascript.
+The site uses LeafletJS library to display an interactive map, with markers added to display points of interest using Javascript.
 
 An example marker can be viewed in script.js
 
